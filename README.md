@@ -33,6 +33,10 @@ Durante el programa se abordaron temas clave como:
 
 ---
 
+## 💼 Certificado
+[📄 Ver certificado (PDF)](./Introduccion_Ciencia_de_Datos.pdf)
+
+---
 
 ## 🚀 Próximos pasos
 Este aprendizaje representa el inicio de un camino más amplio hacia la analítica avanzada, el aprendizaje automático y la automatización inteligente de datos.  
